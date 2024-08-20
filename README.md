@@ -1,1 +1,1 @@
-Homework 2. JavaScript
+Homework 2. JavaScript. Done.
